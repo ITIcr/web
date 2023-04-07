@@ -1,1 +1,11 @@
 /* File de prueba */
+.titulo {
+    orientation: center;
+}
+
+.espacio {
+    orientation: center;
+    margin: 30%;
+    width: 800px, 800px;
+    background-color: aquamarine;
+}
